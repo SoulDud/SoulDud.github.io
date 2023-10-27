@@ -8,27 +8,27 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Soulius Jones
+    tagline: Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    email: souliusjones@gmail.com
+    phone: 916 990 3647
+    timezone: Pacific Timezone
+    citizenship: US Citizen
+    website:
+    linkedin: Soulius Jones
+    xing: 
+    github: SoulDud
+    telegram: 
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: 
+    stack-overflow: 
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    goodreads: 
+    pdf: 
 
     languages:
       title: Languages
@@ -36,19 +36,14 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Camping
           link:
 
-        - item: Snowboarding
+        - item: Music
           link:
 
         - item: Cooking
@@ -66,200 +61,152 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: BS in Computer Science
+        university: San Francisco State University
+        time: 2018 - 2022
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Throughout my education journey at San Francisco State University, 
+          I acquired a comprehensive understanding of Computer Science, 
+          positioning me as a highly qualified software engineer. 
+          My coursework focused on key programming languages such as Java, C++, Python, and SQL,
+          equipping me with the skills to develop robust and scalable software solutions.
+          I engaged in rigorous projects and assignments that honed my problem-solving abilities, 
+          algorithmic thinking, and software development methodologies. Additionally, 
+          my participation in collaborative team projects allowed me to cultivate strong communication and teamwork skills, 
+          which are essential for successful software engineering roles. 
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: TASC (Tutor / Project Lead)
+        time: 2018 - 2022
+        company: San Francisco State University, San Francisco
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Developed project plans that included timelines, milestones, and resource allocation to ensure successful project completion.
+            - Identified and resolved project issues quickly and efficiently, minimizing their impact on project progress.
+            - Led a cross-functional team to successfully launch a large-scale project on time and within budget.
+            - Utilized object-oriented programming (OOP) principles to improve code readability and maintainability.
+            - Collaborated with cross-functional teams to identify customer requirements and develop technical solutions.
+      - role: SCI (Co-Facilitator)
+        time: 2018 - 2022
+        company: San Francisco State University, San Francisco
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+            - Created a virtual learning environment to enable remote learning during the pandemic.
+            - Created online resources and interactive activities to help students understand complex computer science concepts.
+            - Coordinated and facilitated group projects, teaching students how to work together and communicate effectively.
+            - Developed and implemented a system to track student grades and attendance.
+            - Developed computer science courses for adult learners, teaching them the fundamentals of programming.
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+        - name:
+          start: 
+          end: 
+          organization: 
+          credentialid: 
+          credentialurl:
+          credentialname:
+          details: 
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      5 projects that would exhibit my skills and competencies in the field are:
     assignments:
-      - title: Velocity
+      - title: MULTIMEDIA CONTENT DATABASE SYSTEM
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline:
+         I created a bot for the software discord that would respond to commands given by any user such as message history, printing a list of the users on the channel, and creating new entries in the database such as the favorite color.
+         SQL was required to build this project.
+         Python was required to build this project.
 
-      - title: DevStudio
+      - title: C-Dictionary
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: 
+        The Dictionary will take a text (.txt) file filled with a word, its part of speech, and its definition and filter the words into noun, verb, and adjective objects.
+        The dictionary would also respond to commands given by the user.
+        C ++ was Required to build this project.
 
-      - title: Tempo
+      - title: File-system Project
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: " 
+        - The file system allowed the user to partition a hard drive and navigate from the desktop to other folders in the Directory and create and edit files in this directory that would later be added to the file system hard drive to be viewed later by the user.
+        - This project has made me comfortable with using the low-level language of C and its benefit of managing memory more efficiently.
+        - A virtual box was required to build this project.
+        - C was required to build this project."
 
-      - title: Atom
+      - title: musical application
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "
+        - I created a website that must simulate playing a drum set by producing the same sounds when playing with any part of its real counterpart on the website. 
+        - The website must also have an illustration that plays along with the instrument sounds added by me to the website.
+        - SQL was required to build this project.
+        - Typescript was required to build this project.
+        - JavaScript was required to build this project.
+        - CSS was required to build this project.
+        "
 
-      - title: Delta
+      - title: Online store platform
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "
+        - I created a website that allows the user to purchase various types of minfigurines as well as comment on minifigures they have bought before on the website. 
+        - The website must also have an illustration that plays along with the instrument sounds added by me to the website.
+        - SQL was required to build this project.
+        - Typescript was required to build this project.
+        - JavaScript was required to build this project.
+        - CSS was required to build this project.
+        "
 
 oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: 
+    intro: 
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+      - title: 
+        link: 
+        tagline: 
+        
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro: 
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: 
+        link:
+        authors:
+        conference: 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python 
         level: 98%
 
       - name: Javascript & jQuery
         level: 98%
 
-      - name: Angular
+      - name: Java 
         level: 98%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: React
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: django
         level: 60%
+      
+      - name: SQL
+        level: 95%
+      
+      - name: C ++
+        level: 94%
+      
+      - name: C
+        level: 95%
+      
+      - name: typescipt
+        level: 97%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
